@@ -7,3 +7,4 @@
 - conda install IPython
 - conda install matplotlib
 - conda install ipykernel
+- conda install scipy
